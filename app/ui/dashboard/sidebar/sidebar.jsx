@@ -10,7 +10,6 @@ import {
   MdPeople,
   MdOutlineSettings,
   MdHelpCenter,
-  MdLogout,
 } from "react-icons/md";
 import Image from "next/image";
 
